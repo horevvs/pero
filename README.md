@@ -1,2 +1,2 @@
 # home work sqlite
-задание №5 в папке lesson5
+задание №6 в папке lesson6
